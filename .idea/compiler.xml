@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="ccl-api" />
         <module name="ccl-common" />
         <module name="ccl-model" />
         <module name="ccl-service" />
@@ -13,6 +14,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="ccl" target="1.5" />
+      <module name="ccl-api" target="1.8" />
       <module name="ccl-common" target="1.5" />
       <module name="ccl-model" target="1.5" />
       <module name="ccl-service" target="1.5" />

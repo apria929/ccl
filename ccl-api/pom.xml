@@ -6,7 +6,7 @@
     <groupId>ccl</groupId>
     <artifactId>ccl-api</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <packaging>jar</packaging>
+    <packaging>war</packaging>
 
     <name>ccl-api</name>
     <description>Demo project for Spring Boot</description>
